@@ -1,0 +1,43 @@
+h1{
+	border-width: 40px;
+	font-size: 50px;
+	background-color: white;
+	text-align: center;
+	border-radius: 30px;
+}	
+p{
+	font-size: 50px;
+}
+body{
+	background-color: pink;
+}
+ul{
+	color: green;
+}
+.core{
+	background-color: white;
+	border-radius: 30px;
+	padding-left: 100px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	font-size:40px;
+
+}
+.topnav {
+  overflow: hidden;
+  background-color: red;
+  padding-left: 70px;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 30px 40px;
+  text-decoration: none;
+  font-size: 25px;
+}
+a:hover{
+  background-color:green;
+}
+
